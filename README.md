@@ -40,7 +40,7 @@ Label information is stored in csv.
 
 ## Features
 - Data preprocessing
-  - Flip images for consistency
+  - Flip odd number images for consistency
   - Crop black blocks on both sides
   - Salt-and-pepper noise removal through adaptive median filter
   - Contrast enhancement through Contrast Limited Adaptive Histogram Equalization (CLAHE)
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run `main.ipynb` to and explore step-by-step image preprocessing and the model's training process.
+Run `main.ipynb` to explore step-by-step image preprocessing and the model's training process.
 
 ## Contributor
 Miao
