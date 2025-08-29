@@ -7,19 +7,21 @@ The project addresses challenges such as the small dataset size and class imbala
 ## Project Structure
 
 ```
-main.ipynb
-Dataset/
-    mias_derived_info.csv
-    MIAS/
-        mdb001.png
-        mdb002.png
-        ...
-utils/
-    dataset.py
-    evaluate.py
-    models.py
-    preprocess.py
-    train.py
+├── README.md
+├── requirements.txt
+├── main.ipynb
+├── Dataset/
+│   ├── mias_derived_info.csv
+│   └── MIAS/
+│       ├── mdb001.png
+│       ├── mdb002.png
+│       └── ...
+└── utils/
+    ├── dataset.py
+    ├── evaluate.py
+    ├── models.py
+    ├── preprocess.py
+    └── train.py
 ```
 
 ## Dataset
@@ -61,7 +63,6 @@ Label information is stored in csv.
 **1. Clone and navigate to the repo:**
 ```cli
 git clone https://github.com/Miao025/Computer-vision-MIAS-3classification
-
 cd Computer-vision-MIAS-3classification
 ```
 
