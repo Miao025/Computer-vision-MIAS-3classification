@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+cupy-cuda12x

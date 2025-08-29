@@ -1,0 +1,331 @@
+REFNUM,BG,CLASS,SEVERITY,X,Y,RADIUS,DENSITY,BI-RADS,CLASS_FULL,CLASS_GROUP
+mdb001,G,CIRC,Benign,535.0,425.0,197.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb002,G,CIRC,Benign,522.0,280.0,69.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb003,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb004,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb005,F,CIRC,Benign,477.0,133.0,30.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb005,F,CIRC,Benign,500.0,168.0,26.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb006,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb007,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb008,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb009,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb010,F,CIRC,Benign,525.0,425.0,33.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb011,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb012,F,CIRC,Benign,471.0,458.0,40.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb013,G,MISC,Benign,667.0,365.0,31.0,B,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb014,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb015,G,CIRC,Benign,595.0,864.0,68.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb016,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb017,G,CIRC,Benign,547.0,573.0,48.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb018,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb019,G,CIRC,Benign,653.0,477.0,49.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb020,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb021,G,CIRC,Benign,493.0,125.0,49.0,B,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb022,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb023,G,CIRC,Malignant,538.0,681.0,29.0,B,BI-RADS 4,Well-defined/Circumscribed Masses,Masses
+mdb024,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb025,F,CIRC,Benign,674.0,443.0,79.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb026,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb027,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb028,F,CIRC,Malignant,338.0,314.0,56.0,A,BI-RADS 4,Well-defined/Circumscribed Masses,Masses
+mdb029,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb030,G,MISC,Benign,322.0,676.0,43.0,B,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb031,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb032,G,MISC,Benign,388.0,742.0,66.0,B,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb033,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb034,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb035,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb036,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb037,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb038,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb039,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb040,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb041,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb042,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb043,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb044,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb045,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb046,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb047,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb048,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb049,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb050,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb051,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb052,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb053,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb054,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb055,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb056,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb057,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb058,D,MISC,Malignant,318.0,359.0,27.0,C/D,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb059,F,CIRC,Benign,,,,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb060,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb061,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb062,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb063,D,MISC,Benign,546.0,463.0,33.0,C/D,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb064,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb065,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb066,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb067,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb068,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb069,F,CIRC,Benign,462.0,406.0,44.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb070,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb071,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb072,G,ASYM,Malignant,266.0,517.0,28.0,B,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb073,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb074,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb075,F,ASYM,Malignant,468.0,717.0,23.0,A,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb076,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb077,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb078,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb079,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb080,F,CIRC,Benign,432.0,149.0,20.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb081,G,ASYM,Benign,492.0,473.0,131.0,B,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb082,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb083,G,ASYM,Benign,544.0,194.0,38.0,B,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb084,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb085,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb086,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb087,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb088,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb089,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb090,G,ASYM,Malignant,510.0,547.0,49.0,B,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb091,F,CIRC,Benign,680.0,494.0,20.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb092,F,ASYM,Malignant,423.0,662.0,43.0,A,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb093,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb094,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb095,F,ASYM,Malignant,466.0,517.0,29.0,A,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb096,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb097,F,ASYM,Benign,612.0,297.0,34.0,A,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb098,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb099,D,ASYM,Benign,714.0,340.0,23.0,C/D,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb100,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb101,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb102,D,ASYM,Malignant,415.0,460.0,38.0,C/D,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb103,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb104,D,ASYM,Benign,357.0,365.0,50.0,C/D,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb105,D,ASYM,Malignant,516.0,279.0,98.0,C/D,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb106,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb107,D,ASYM,Benign,600.0,621.0,111.0,C/D,BI-RADS 3,Asymmetry,Architectural Distortion & Asymmetry
+mdb108,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb109,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb110,D,ASYM,Malignant,190.0,427.0,51.0,C/D,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb111,D,ASYM,Malignant,505.0,575.0,107.0,C/D,BI-RADS 4,Asymmetry,Architectural Distortion & Asymmetry
+mdb112,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb113,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb114,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb115,G,ARCH,Malignant,461.0,532.0,117.0,B,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb116,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb117,G,ARCH,Malignant,480.0,576.0,84.0,B,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb118,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb119,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb120,G,ARCH,Malignant,423.0,262.0,79.0,B,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb121,G,ARCH,Benign,492.0,434.0,87.0,B,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb122,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb123,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb124,G,ARCH,Malignant,366.0,620.0,33.0,B,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb125,D,ARCH,Malignant,700.0,552.0,60.0,C/D,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb126,D,ARCH,Benign,191.0,549.0,23.0,C/D,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb127,G,ARCH,Benign,523.0,551.0,48.0,B,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb128,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb129,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb130,D,ARCH,Malignant,220.0,552.0,28.0,C/D,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb131,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb132,F,CIRC,Benign,252.0,788.0,52.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb132,F,CIRC,Benign,335.0,766.0,18.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb133,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb134,F,MISC,Malignant,469.0,728.0,49.0,A,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb135,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb136,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb137,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb138,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb139,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb140,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb141,F,CIRC,Malignant,470.0,759.0,29.0,A,BI-RADS 4,Well-defined/Circumscribed Masses,Masses
+mdb142,F,CIRC,Benign,347.0,636.0,26.0,A,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb143,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb144,F,MISC,Benign,233.0,994.0,29.0,A,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb144,F,MISC,Malignant,313.0,540.0,27.0,A,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb145,D,SPIC,Benign,669.0,543.0,49.0,C/D,BI-RADS 3,Spiculated Masses,Masses
+mdb146,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb147,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb148,F,SPIC,Malignant,326.0,607.0,174.0,A,BI-RADS 5,Spiculated Masses,Masses
+mdb149,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb150,F,ARCH,Benign,351.0,661.0,62.0,A,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb151,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb152,F,ARCH,Benign,675.0,486.0,48.0,A,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb153,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb154,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb155,F,ARCH,Malignant,448.0,480.0,95.0,A,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb156,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb157,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb158,F,ARCH,Malignant,540.0,565.0,88.0,A,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb159,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb160,F,ARCH,Benign,536.0,519.0,61.0,A,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb161,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb162,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb163,D,ARCH,Benign,391.0,365.0,50.0,C/D,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb164,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb165,D,ARCH,Benign,537.0,490.0,42.0,C/D,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb166,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb167,F,ARCH,Benign,574.0,657.0,35.0,A,BI-RADS 3,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb168,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb169,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb170,D,ARCH,Malignant,489.0,480.0,82.0,C/D,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb171,D,ARCH,Malignant,462.0,627.0,62.0,C/D,BI-RADS 5,Architectural Distortion,Architectural Distortion & Asymmetry
+mdb172,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb173,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb174,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb175,G,SPIC,Benign,592.0,670.0,33.0,B,BI-RADS 3,Spiculated Masses,Masses
+mdb176,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb177,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb178,G,SPIC,Malignant,492.0,600.0,70.0,B,BI-RADS 5,Spiculated Masses,Masses
+mdb179,D,SPIC,Malignant,600.0,514.0,67.0,C/D,BI-RADS 5,Spiculated Masses,Masses
+mdb180,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb181,G,SPIC,Malignant,519.0,362.0,54.0,B,BI-RADS 5,Spiculated Masses,Masses
+mdb182,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb183,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb184,F,SPIC,Malignant,352.0,624.0,114.0,A,BI-RADS 5,Spiculated Masses,Masses
+mdb185,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb186,G,SPIC,Malignant,403.0,524.0,47.0,B,BI-RADS 5,Spiculated Masses,Masses
+mdb187,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb188,G,SPIC,Benign,406.0,617.0,61.0,B,BI-RADS 3,Spiculated Masses,Masses
+mdb189,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb190,G,SPIC,Benign,512.0,621.0,31.0,B,BI-RADS 3,Spiculated Masses,Masses
+mdb191,G,SPIC,Benign,594.0,516.0,41.0,B,BI-RADS 3,Spiculated Masses,Masses
+mdb192,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb193,D,SPIC,Benign,399.0,563.0,132.0,C/D,BI-RADS 3,Spiculated Masses,Masses
+mdb194,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb195,F,SPIC,Benign,725.0,129.0,26.0,A,BI-RADS 3,Spiculated Masses,Masses
+mdb196,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb197,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb198,D,SPIC,Benign,568.0,612.0,93.0,C/D,BI-RADS 3,Spiculated Masses,Masses
+mdb199,D,SPIC,Benign,641.0,177.0,31.0,C/D,BI-RADS 3,Spiculated Masses,Masses
+mdb200,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb201,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb202,D,SPIC,Malignant,557.0,772.0,37.0,C/D,BI-RADS 5,Spiculated Masses,Masses
+mdb203,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb204,F,SPIC,Benign,336.0,399.0,21.0,A,BI-RADS 3,Spiculated Masses,Masses
+mdb205,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb206,F,SPIC,Malignant,368.0,200.0,17.0,A,BI-RADS 5,Spiculated Masses,Masses
+mdb207,D,SPIC,Benign,571.0,564.0,19.0,C/D,BI-RADS 3,Spiculated Masses,Masses
+mdb208,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb209,G,CALC,Malignant,647.0,503.0,87.0,B,BI-RADS 4,Calcification,Calcification
+mdb210,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb211,G,CALC,Malignant,680.0,327.0,13.0,B,BI-RADS 4,Calcification,Calcification
+mdb212,G,CALC,Benign,687.0,882.0,3.0,B,BI-RADS 2,Calcification,Calcification
+mdb213,G,CALC,Malignant,547.0,520.0,45.0,B,BI-RADS 4,Calcification,Calcification
+mdb214,G,CALC,Benign,582.0,916.0,11.0,B,BI-RADS 2,Calcification,Calcification
+mdb215,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb216,D,CALC,Malignant,,,,C/D,BI-RADS 4,Calcification,Calcification
+mdb217,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb218,G,CALC,Benign,519.0,629.0,8.0,B,BI-RADS 2,Calcification,Calcification
+mdb219,G,CALC,Benign,546.0,756.0,29.0,B,BI-RADS 2,Calcification,Calcification
+mdb220,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb221,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb222,D,CALC,Benign,398.0,427.0,17.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb223,D,CALC,Benign,523.0,482.0,29.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb223,D,CALC,Benign,591.0,529.0,6.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb224,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb225,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb226,D,CALC,Benign,287.0,610.0,7.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb226,D,CALC,Benign,329.0,550.0,25.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb226,D,CALC,Benign,531.0,721.0,8.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb227,G,CALC,Benign,504.0,467.0,9.0,B,BI-RADS 2,Calcification,Calcification
+mdb228,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb229,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb230,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb231,F,CALC,Malignant,603.0,538.0,44.0,A,BI-RADS 4,Calcification,Calcification
+mdb232,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb233,G,CALC,Malignant,,,,B,BI-RADS 4,Calcification,Calcification
+mdb234,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb235,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb236,D,CALC,Benign,276.0,824.0,14.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb237,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb238,F,CALC,Malignant,522.0,553.0,17.0,A,BI-RADS 4,Calcification,Calcification
+mdb239,D,CALC,Malignant,645.0,755.0,40.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb239,D,CALC,Malignant,567.0,808.0,25.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb240,D,CALC,Benign,643.0,614.0,23.0,C/D,BI-RADS 2,Calcification,Calcification
+mdb241,D,CALC,Malignant,453.0,678.0,38.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb242,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb243,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb244,D,CIRC,Benign,466.0,567.0,52.0,C/D,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb245,F,CALC,Malignant,,,,A,BI-RADS 4,Calcification,Calcification
+mdb246,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb247,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb248,F,CALC,Benign,378.0,601.0,10.0,A,BI-RADS 2,Calcification,Calcification
+mdb249,D,CALC,Malignant,544.0,508.0,48.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb249,D,CALC,Malignant,575.0,639.0,64.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb250,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb251,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb252,F,CALC,Benign,439.0,367.0,23.0,A,BI-RADS 2,Calcification,Calcification
+mdb253,D,CALC,Malignant,733.0,564.0,28.0,C/D,BI-RADS 4,Calcification,Calcification
+mdb254,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb255,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb256,F,CALC,Malignant,400.0,484.0,37.0,A,BI-RADS 4,Calcification,Calcification
+mdb257,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb258,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb259,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb260,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb261,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb262,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb263,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb264,G,MISC,Malignant,596.0,431.0,36.0,B,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb265,G,MISC,Malignant,593.0,498.0,60.0,B,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb266,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb267,F,MISC,Malignant,793.0,481.0,56.0,A,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb268,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb269,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb270,G,CIRC,Malignant,356.0,945.0,72.0,B,BI-RADS 4,Well-defined/Circumscribed Masses,Masses
+mdb271,F,MISC,Malignant,784.0,270.0,68.0,A,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb272,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb273,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb274,F,MISC,Malignant,127.0,505.0,123.0,A,BI-RADS 4,Miscellaneous/Ill-defined Masses,Masses
+mdb275,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb276,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb277,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb278,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb279,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb280,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb281,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb282,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb283,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb284,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb285,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb286,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb287,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb288,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb289,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb290,D,CIRC,Benign,337.0,353.0,45.0,C/D,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb291,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb292,G,NORM,Normal,,,,B,BI-RADS 1,Normal,Normal
+mdb293,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb294,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb295,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb296,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb297,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb298,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb299,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb300,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb301,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb302,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb303,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb304,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb305,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb306,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb307,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb308,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb309,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb310,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb311,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb312,F,MISC,Benign,240.0,263.0,20.0,A,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb313,F,NORM,Normal,,,,A,BI-RADS 1,Normal,Normal
+mdb314,F,MISC,Benign,518.0,191.0,39.0,A,BI-RADS 3,Miscellaneous/Ill-defined Masses,Masses
+mdb315,D,CIRC,Benign,516.0,447.0,93.0,C/D,BI-RADS 2,Well-defined/Circumscribed Masses,Masses
+mdb316,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb317,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb318,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb319,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb320,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb321,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
+mdb322,D,NORM,Normal,,,,C/D,BI-RADS 1,Normal,Normal
