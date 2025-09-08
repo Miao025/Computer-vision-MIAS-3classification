@@ -54,6 +54,28 @@ Label information is stored in csv.
   - Features from the penultimate layer of each model extracted and concatenated.
   - Concatenated features processed through a fully connected network (Early fusion technique).
 
+    The architecture is as follows:
+    ```
+    Hybrid CNN
+    ├── VGG16 (pretrained, fine-tuned from block4_conv3 → block5)
+    │    └── Features → Flatten (25088) → FC (25088 → 1024) → ReLU
+    │
+    ├── VGG19 (pretrained, fine-tuned from block4_pool → block5)
+    │    └── Features → Flatten (25088) → FC (25088 → 1024) → ReLU
+    │
+    ├── ResNet50 (pretrained, fine-tuned on layer3 & layer4)
+    │    └── Features → GAP → FC (2048 → 1024) → ReLU
+    │
+    └── DenseNet121 (pretrained, fine-tuned on denseblock3 & denseblock4)
+    |    └── Features → GAP → FC (1024 → 1024) → ReLU
+    ↓
+    Fusion Network
+     ├── Concatenate (4×1024 = 4096)
+     ├── Dropout(0.6)
+     ├── BatchNorm1d(4096)
+     └── Linear(4096 → 3 classes)
+    ```
+
 - Train
   - 5-fold train-val to asses the general model performance.
   - Adam optimizer, learning rate scheduler and mini-batch techniques to improve training.
